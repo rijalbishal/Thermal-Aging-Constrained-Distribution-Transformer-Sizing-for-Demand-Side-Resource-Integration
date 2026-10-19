@@ -127,7 +127,7 @@ The exact results depend on the input profiles, model parameters, software versi
 ### Conventional Sizing Method
 
 The conventional sizing implementation is provided in
-`src/conventional.py`. It currently depends on shared variables
+`src/Conventional_method.py`. It currently depends on shared variables
 and calculations initialized by the existing optimization workflow.
 
 Standalone execution instructions will be provided after the
