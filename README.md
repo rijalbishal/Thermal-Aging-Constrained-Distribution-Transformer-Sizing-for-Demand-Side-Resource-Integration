@@ -25,6 +25,8 @@ The primary objectives of this project are to:
 - Compare optimization-based sizing with a conventional transformer-sizing approach.
 
 ## 2. Methodology
+<img width="1027" height="522" alt="image" src="https://github.com/user-attachments/assets/3f2b8ea7-3a81-4e2f-a4d9-92040d44da78" />
+
 
 The framework consists of the following major components.
 
